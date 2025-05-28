@@ -77,6 +77,7 @@ def analyze_interview(transcript, outline, target):
 - 原始话术请节选受访者的原句
 - 如有遗漏，请填写具体补问建议，问题精准可操作
 
+请严格按照上述 Markdown 表格格式输出内容，从表头开始，请不要添加解释或额外说明文字。
 ---
 
 【访谈目标】
